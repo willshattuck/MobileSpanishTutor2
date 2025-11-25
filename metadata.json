@@ -1,0 +1,7 @@
+{
+  "name": "Mateo: Your Spanish Tutor",
+  "description": "An adaptive, voice-first Spanish tutor leveraging Google Gemini AI for real-time conversation and pronunciation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
